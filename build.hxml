@@ -1,0 +1,7 @@
+-dce full
+-D analyzer-optimize
+-js main.js
+-cp src
+-lib pecan
+-D js-es=6  
+--main Main
